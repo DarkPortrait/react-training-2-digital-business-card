@@ -1,3 +1,7 @@
+This is the digital business card assignment from React class in Scrimba.
+
+CSS is not complete. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
